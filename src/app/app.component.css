@@ -1,0 +1,45 @@
+/* Style the navbar */
+.navbar {
+    background-color: #f8f9fa; /* set the background color */
+    padding: 10px; /* add padding to the navbar */
+  }
+  
+  /* Style the navbar links */
+  .navbar-nav li a {
+    color: #333; /* set the font color */
+    font-size: 18px; /* set the font size */
+    padding: 10px; /* add padding to the links */
+  }
+  
+  /* Style the active navbar link */
+  .navbar-nav li a.active {
+    background-color: #007bff; /* set the background color */
+    color: #fff; /* set the font color */
+  }
+  
+  /* Style the dropdown button */
+  .dropdown-toggle {
+    background-color: #fff; /* set the background color */
+    color: #333; /* set the font color */
+    border: 1px solid #ddd; /* add a border */
+    padding: 10px; /* add padding to the button */
+  }
+  
+  /* Style the dropdown menu */
+  .dropdown-menu {
+    background-color: #fff; /* set the background color */
+    box-shadow: 0 0 10px rgba(0,0,0,0.2); /* add a box shadow */
+  }
+  
+  /* Style the dropdown menu links */
+  .dropdown-menu a {
+    color: #333; /* set the font color */
+    padding: 10px; /* add padding to the links */
+  }
+  
+  /* Style the active dropdown menu link */
+  .dropdown-menu a.active {
+    background-color: #007bff; /* set the background color */
+    color: #fff; /* set the font color */
+  }
+  
